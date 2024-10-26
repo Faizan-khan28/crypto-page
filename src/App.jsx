@@ -1,12 +1,11 @@
+import Dashboard from "./Dashboard"
 
 function App() {
  
 
   return (
     <>
-      <div className=" bg-black text-white">
-        hii
-      </div>
+      <Dashboard/>
     </>
   )
 }
